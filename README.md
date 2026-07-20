@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o 👋</h1>
-<h3 align="center">Desenvolvedor(a) focado(a) em Java e aplicações Full Stack 🚀</h3>
+<h1 align="center">Olá, eu sou o José Gabriel Pereira da Silva 👋</h1>
+<h3 align="center">Desenvolvedor focado em Java e aplicações Full Stack 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+Full+Stack;Hibernate+%2F+JPA+Enthusiast;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
@@ -16,9 +16,9 @@ desenvolvedor:
   filosofia: "código limpo > código rápido, mas gosto dos dois"
 ```
 
-- 💻 Desenvolvedor(a) focado(a) em **Java** e aplicações **Full Stack**
+- 💻 Desenvolvedor focado em **Java** e aplicações **Full Stack**
 - 🧠 Sempre estudando algo novo, sempre construindo algo útil
-- 🤝 Aberto(a) a colaborações e trocas de conhecimento
+- 🤝 Aberto a colaborações e trocas de conhecimento
 
 ---
 
