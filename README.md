@@ -1,15 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=José%20Silva&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-<h1 align="center">👨‍💻 José Silva</h1>
-
-<p align="center">
-🚀 Java Developer • Hibernate/JPA • Flex • Angular Learner
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Developer;Hibernate+%2F+JPA;Flex+%2B+BlazeDS;Angular+Learner;Always+learning+new+technologies..." />
-</p>
-
 ---
 
 # 💫 About Me
@@ -17,6 +5,7 @@
 💻 Desenvolvedor focado em Java e aplicações Full Stack.
 
 🔥 Principais tecnologias:
+
 - Java
 - Hibernate / JPA
 - MySQL
@@ -25,12 +14,14 @@
 - Angular
 
 🧠 Atualmente estudando:
+
 - Angular
 - Jakarta EE
 - Arquitetura de Software
 - APIs REST
 
 🚀 Sempre criando:
+
 - CRUDs completos
 - Sistemas desktop
 - Sistemas web
@@ -40,45 +31,35 @@
 
 # 🚀 Technologies
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,git,github,eclipse,idea,html,css,javascript,typescript"/>
-
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=for-the-badge&logo=jakarta&logoColor=white)
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegabrielprgm&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegabrielprgm&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=josegabrielprgm&theme=tokyonight&hide_border=true"/>
-
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
 
 ---
 
 # 🏙️ GitHub City
 
-![GitHub City](https://github-profile-3d-contrib.vercel.app/api?username=SEU_USUARIO&theme=green&bg_color=000000)
+![GitHub City](./profile-3d-contrib/profile-green.svg)
 
 ---
 
 # 🧠 Current Focus
 
-```
+```java
 Java
 Hibernate
 JPA
@@ -86,73 +67,3 @@ Angular
 Jakarta EE
 Software Architecture
 Flex + BlazeDS
-```
-
----
-
-# 🚓 Featured Projects
-
-## 🚗 CadCollections
-Sistema de gerenciamento de colecionadores e carros utilizando Flex + Java + Hibernate.
-
-## 📦 CadProd
-CRUD completo de produtos utilizando JPA/Hibernate e MySQL.
-
-## 🖥️ Swing-JPA
-Sistema desktop utilizando Java Swing + Hibernate + MySQL.
-
----
-
-# ⚡ Fun Fact
-
-```java
-while(alive){
-
-    code();
-
-    learn();
-
-    improve();
-
-}
-```
-
----
-
-# 🌎 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/josegabrielprgm">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=josegabrielprgm&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=josegabrielprgm&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-🔥 Code • Learn • Repeat 🔥
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=140&section=footer"/>
