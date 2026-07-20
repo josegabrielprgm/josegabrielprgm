@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o(a) 👋</h1>
+<h1 align="center">Olá, eu sou o 👋</h1>
 <h3 align="center">Desenvolvedor(a) focado(a) em Java e aplicações Full Stack 🚀</h3>
 
 <p align="center">
