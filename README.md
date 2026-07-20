@@ -104,6 +104,57 @@ graph LR
 
 ---
 
+### 🏙️ GitHub City
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/josegabrielprgm/josegabrielprgm/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution City" />
+</p>
+
+> ℹ️ Essa imagem é gerada automaticamente por uma **GitHub Action** rodando no seu próprio repositório `josegabrielprgm/josegabrielprgm`. Veja como configurar logo abaixo.
+
+<details>
+<summary>⚙️ Como ativar o GitHub City (clique para expandir)</summary>
+
+1. No seu repositório especial `josegabrielprgm/josegabrielprgm`, crie o arquivo:
+   `.github/workflows/profile-3d-contrib.yml`
+
+2. Cole o conteúdo:
+
+```yaml
+name: GitHub 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: josegabrielprgm
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Atualiza GitHub City" || exit 0
+          git push
+```
+
+3. Faça commit — a Action vai rodar automaticamente (ou clique em "Run workflow" manualmente pela aba **Actions**) e vai gerar os arquivos SVG dentro da pasta `profile-3d-contrib/`.
+
+4. Temas disponíveis: troque `profile-night-rainbow.svg` por `profile-night-green.svg`, `profile-south.svg`, entre outros, conforme o que a Action gerar.
+
+</details>
+
+---
+
 ### ⚡ Fun Fact
 
 ```java
