@@ -86,11 +86,6 @@ graph LR
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josegabrielprgm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegabrielprgm&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=josegabrielprgm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
