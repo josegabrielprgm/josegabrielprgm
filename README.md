@@ -70,13 +70,9 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🏙️ GitHub City
 
-<p align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-
-</p>
+![GitHub City](https://github-profile-3d-contrib.vercel.app/api?username=SEU_USUARIO&theme=green&bg_color=000000)
 
 ---
 
