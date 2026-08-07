@@ -128,7 +128,6 @@ public class Dev {
         }
     }
 }
-```
 <div align="center">
 <i>"while(alive) { code(); learn(); improve(); }"</i>
 </div>
