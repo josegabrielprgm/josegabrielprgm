@@ -107,7 +107,7 @@ graph LR
     <td width="33%">
       <h4>🚗 <a href="https://github.com/josegabrielprgm/cad-prod-spring-angular">cad_prod</a></h4>
       <p>Sistema desenvolvido para fins de estudos.</p>
-      <p><code>Java</code>·<code>Spring-boot</code></p>
+      <p><code>Java</code> · <code>Spring-boot</code></p>
     </td>
     <td width="33%">
       <h4>🖥️ <a href="https://github.com/josegabrielprgm/CarCollectionManager">CarCollectionManager</a></h4>
