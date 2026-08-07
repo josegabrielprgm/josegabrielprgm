@@ -117,7 +117,7 @@ graph LR
 > 💡 A animação da cobrinha precisa de um workflow no repositório (Platane/snk) — te explico como configurar se quiser ativar de verdade.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 ⚡ Fun Fact
-```java
+java
 public class Dev {
     public static void main(String[] args) {
         boolean alive = true;
