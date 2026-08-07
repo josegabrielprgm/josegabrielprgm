@@ -62,7 +62,7 @@ desenvolvedor:
   <img src="https://img.shields.io/badge/Arquitetura_de_Software-4B32C3?style=flat-square" />
   <img src="https://img.shields.io/badge/APIs_REST-25D366?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
-```mermaid
+mermaid
 graph LR
     A[Java] --> B[Spring / Spring Boot]
     B --> C[Hibernate / JPA]
