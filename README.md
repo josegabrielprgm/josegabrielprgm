@@ -105,9 +105,9 @@ graph LR
 <table>
   <tr>
     <td width="33%">
-      <h4>🚗 <a href="https://github.com/josegabrielprgm/car-manager-web">car-manager-web</a></h4>
-      <p>Ferramenta para colecionadores organizarem, documentarem e gerenciarem suas coleções de carros.</p>
-      <p><code>Java</code></p>
+      <h4>🚗 <a href="https://github.com/josegabrielprgm/cad-prod-spring-angular">cad_prod</a></h4>
+      <p>Sistema desenvolvido para fins de estudos.</p>
+      <p><code>Java</code>·<code>Spring-boot</code></p>
     </td>
     <td width="33%">
       <h4>🖥️ <a href="https://github.com/josegabrielprgm/CarCollectionManager">CarCollectionManager</a></h4>
