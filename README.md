@@ -63,7 +63,6 @@ desenvolvedor:
   <img src="https://img.shields.io/badge/APIs_REST-25D366?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-graph LR
     A[Java] --> B[Spring / Spring Boot]
     B --> C[Hibernate / JPA]
     C --> D[Oracle / MySQL]
