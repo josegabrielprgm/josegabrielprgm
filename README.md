@@ -78,7 +78,7 @@ graph LR
     style E fill:#25D366,color:#fff
     style F fill:#DD0031,color:#fff
     style G fill:#4B32C3,color:#fff
-```
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 🚓 Projetos em Destaque
 <table>
