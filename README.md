@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=José%20Gabriel%20Pereira%20da%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20%7C%20Angular%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jos%C3%A9%20Gabriel%20Pereira%20da%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20%7C%20Angular%20Developer&descAlignY=58&descSize=20" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Developer+%F0%9F%9A%80;Full+Stack+com+Angular+%2B+PrimeNG;Oracle+%2F+MySQL+%2F+Hibernate;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 <br/>
 <a href="mailto:josegabrielprgm@email.com">
@@ -10,7 +10,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=josegabrielprgm&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile Views" />
 </div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 💫 Sobre Mim
 ```yaml
 desenvolvedor:
@@ -23,7 +23,7 @@ desenvolvedor:
 💻 Desenvolvedor focado em Java, Spring e aplicações Full Stack com Angular
 🧠 Sempre estudando algo novo, sempre construindo algo útil
 🤝 Aberto a colaborações e trocas de conhecimento
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 🔥 Stack Completa
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,oracle,mysql,tomcat,delphi&theme=dark&perline=8" />
@@ -34,7 +34,7 @@ desenvolvedor:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -45,7 +45,7 @@ desenvolvedor:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/WildFly-2B2B2B?style=for-the-badge&logo=wildfly&logoColor=white" />
+  <img src="https://img.shields.io/badge/WildFly-2B2B2B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 </p>
 <p align="center">
@@ -54,15 +54,16 @@ desenvolvedor:
   <img src="https://img.shields.io/badge/BlazeDS-660066?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 🧠 Atualmente Estudando
 <p align="center">
   <img src="https://img.shields.io/badge/Jakarta_EE-3572A5?style=flat-square&logo=eclipseide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Arquitetura_de_Software-4B32C3?style=flat-square" />
-  <img src="https://img.shields.io/badge/APIs_REST-25D366?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs_REST-25D366?style=flat-square" />
 </p>
-
+```mermaid
+graph LR
     A[Java] --> B[Spring / Spring Boot]
     B --> C[Hibernate / JPA]
     C --> D[Oracle / MySQL]
@@ -77,46 +78,41 @@ desenvolvedor:
     style E fill:#25D366,color:#fff
     style F fill:#DD0031,color:#fff
     style G fill:#4B32C3,color:#fff
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+```
+---
 🚓 Projetos em Destaque
 <table>
   <tr>
     <td width="33%">
-      <h4>🚗 CadCollections</h4>
-      <p>Sistema de gerenciamento de colecionadores e carros.</p>
-      <p><code>Flex</code> · <code>Java</code> · <code>Hibernate</code></p>
+      <h4>🚗 <a href="https://github.com/josegabrielprgm/car-manager-web">car-manager-web</a></h4>
+      <p>Ferramenta para colecionadores organizarem, documentarem e gerenciarem suas coleções de carros.</p>
+      <p><code>Java</code></p>
     </td>
     <td width="33%">
-      <h4>📦 CadProd</h4>
-      <p>CRUD completo de produtos com persistência de dados.</p>
-      <p><code>JPA</code> · <code>Hibernate</code> · <code>MySQL</code></p>
+      <h4>🖥️ <a href="https://github.com/josegabrielprgm/CarCollectionManager">CarCollectionManager</a></h4>
+      <p>Aplicação desktop para gerenciamento de colecionadores e veículos.</p>
+      <p><code>Java</code> · <code>Swing</code> · <code>JPA</code></p>
     </td>
     <td width="33%">
-      <h4>🖥️ Swing-JPA</h4>
-      <p>Sistema desktop com interface gráfica e banco de dados.</p>
-      <p><code>Java Swing</code> · <code>Hibernate</code> · <code>MySQL</code></p>
+      <h4>👥 <a href="https://github.com/josegabrielprgm/estagiario-management-system">estagiario-management-system</a></h4>
+      <p>Sistema de gerenciamento de estagiários com arquitetura DAO: cadastro, listagem, edição e remoção.</p>
+      <p><code>Java</code> · <code>JDBC</code> · <code>MySQL</code></p>
     </td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<p align="center"><i>Assim que eu subir projetos com Angular e Spring, é só me avisar que atualizo essa seção.</i></p>
+---
 📊 Estatísticas do GitHub
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=josegabrielprgm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegabrielprgm&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 <img src="https://streak-stats.demolab.com?user=josegabrielprgm&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=josegabrielprgm&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=josegabrielprgm&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
 </div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-🐍 Contribution Snake
-<div align="center">
-<img src="https://raw.githubusercontent.com/josegabrielprgm/josegabrielprgm/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
-> 💡 A animação da cobrinha precisa de um workflow no repositório (Platane/snk) — te explico como configurar se quiser ativar de verdade.
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+> 💡 Esses widgets rodam num serviço gratuito (Vercel) que às vezes fica lento por ser muito usado no mundo todo — se uma imagem não carregar na hora, dá um refresh (Ctrl+F5) depois de alguns minutos.
+---
 ⚡ Fun Fact
-java
+```java
 public class Dev {
     public static void main(String[] args) {
         boolean alive = true;
@@ -127,6 +123,7 @@ public class Dev {
         }
     }
 }
+```
 <div align="center">
 <i>"while(alive) { code(); learn(); improve(); }"</i>
 </div>
