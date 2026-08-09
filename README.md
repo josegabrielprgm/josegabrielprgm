@@ -115,9 +115,8 @@ graph LR
       <p><code>Java</code> · <code>Swing</code> · <code>JPA</code></p>
     </td>
     <td width="33%">
-      <h4>👥 <a href="https://github.com/josegabrielprgm/estagiario-management-system">estagiario-management-system</a></h4>
-      <p>Sistema de gerenciamento de estagiários com arquitetura DAO: cadastro, listagem, edição e remoção.</p>
-      <p><code>Java</code> · <code>JDBC</code> · <code>MySQL</code></p>
+      <h4>👥 <a href="https://github.com/josegabrielprgm/PedidoPro">Sistema de gerenciamento de pedidos desenvolvido com Java e Spring Boot. Possui clientes,      produtos, categorias e pedidos, utilizando REST API, JPA/Hibernate, MySQL, DTOs, Mappers, validações e arquitetura em camadas. Projeto desenvolvido com foco em boas práticas e regras de negócio.</p>
+      <p><code>Java</code> · <code>JPA</code> · <code>MySQL</code></p>
     </td>
   </tr>
 </table>
