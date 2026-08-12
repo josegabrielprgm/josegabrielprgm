@@ -139,7 +139,6 @@ graph LR
 
 </div>
 
-> 💡 Esses widgets rodam num serviço gratuito (Vercel) que às vezes fica lento por ser muito usado no mundo todo — se uma imagem não carregar na hora, dá um refresh (Ctrl+F5) depois de alguns minutos.
 
 ---
 
