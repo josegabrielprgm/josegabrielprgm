@@ -122,7 +122,6 @@ graph LR
   </tr>
 </table>
 
-<p align="center"><i>Assim que eu subir projetos com Angular e Spring, é só me avisar que atualizo essa seção.</i></p>
 
 ---
 
